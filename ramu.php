@@ -1,2 +1,5 @@
-Enter file contents 
-HI This is Ramu Yenugula
+<?php
+
+echo 'Welcome to new environment';
+
+?>
